@@ -1,5 +1,6 @@
 # Data Wrangling of Tweets from @WeRateDogs
 This folder stores the process and report of Data Wrangling on tweets and other information related to @WeRateDogs.
+Check the analysis and visualizations for these data, please see: [Exploratory Data Analysis on tweets from @WeRateDogs](https://htmlpreview.github.io/?https://github.com/XinyueYu16/Data_Visualizations/blob/master/Insights%20from%20%40WeRateDogs.html)
 
 ## Data Source
  related to the three datasets of: WeRateDogs Tweet Archive, Predictions made on WeRateDogs tweets, and like and retweets counts scraped from Tweepy.
